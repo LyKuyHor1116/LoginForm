@@ -1,1 +1,1 @@
- http://localhost/phpmyadmin/
+# http://localhost/phpmyadmin/
